@@ -1,0 +1,20 @@
+import 'package:flutter/material.dart';
+
+const KMainColor = Color(0XFFFFC12F);
+const KSecondaryColor = Color(0XFFFFE6AC);
+const KProductName = 'ProductName';
+const KProductPrice = 'ProductPrice';
+const KProductDesc = 'ProductDescription';
+const KProductCategory = 'ProductCategory';
+const KProductLocation = 'ProductLocation';
+const KProductCollection = 'Products';
+const KJackets = 'jackets';
+const KTrousers = 'trousers';
+const KTShirts = 't-shirts';
+const KShoes = 'shoes';
+const KOrdersCollection = 'Orders';
+const KOrdersDetails = 'OrdersDetails';
+const KProductQuantity = 'ProductQuantity';
+const KAddress = 'Address';
+const KTotalPrice = 'TotalPrice';
+const kRememberUser = 'RememberUser';
